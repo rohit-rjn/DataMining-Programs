@@ -1,0 +1,12 @@
+
+This is the augmented matrix for Gauss-Jordan Elimination
+
+              8              26             170            1232            9686            24.5 
+             26             170            1232            9686           79256           106.5 
+            170            1232            9686           79256          665510           676.5 
+           1232            9686           79256          665510    5.68695e+006          5032.5 
+           9686           79256          665510    5.68695e+006     4.9209e+007         39904.5 
+
+
+ The best-fit curve of degree 4 for the given data points is:
+y =  (-0.0118197) x^ 4  +  (0.216892) x^ 3  +  (-1.23263) x^ 2  +  (2.30146) x^ 1  +  2.68559

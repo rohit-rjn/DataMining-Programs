@@ -1,0 +1,6 @@
+14The following are the inferred rules:
+ youth ( age )  -> no ( student )  -> no ( class ) 
+ youth ( age )  -> yes ( student )  -> yes ( class ) 
+ middle ( age )  -> yes ( class ) 
+ senior ( age )  -> fair ( credit )  -> yes ( class ) 
+ senior ( age )  -> excellent ( credit )  -> no ( class ) 
